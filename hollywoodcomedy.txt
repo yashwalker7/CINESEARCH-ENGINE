@@ -1,0 +1,21 @@
+             Comedy Movies
+
+1.	Borat
+
+2.	Jojo Rabbit
+
+3.	The Hangover
+
+4.	Snatch
+
+5.	Home Alone
+
+6.	Booksmart
+
+7.	Superbad
+
+8.	21 Jump Street
+
+9.	Hot Fuzz
+
+10.	The Dictator
